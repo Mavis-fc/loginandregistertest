@@ -1,6 +1,6 @@
 
 body{
-     background-image: url(../img/bed.jpg);
+     background-image:  url(/img/bed.jpg);
      height:  100vh;
      background-size:  cover;
      background-position: center;
