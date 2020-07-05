@@ -1,6 +1,8 @@
 
 body{
-     background-image:  url(/img/dark-green-bedroom-inspiration.jpeg);
+     padding: 0;
+     maegin: 0;
+     background-image:  url(dark-green-bedroom-inspiration.jpg);
      height:  100vh;
      background-size:  cover;
      background-position: center;
